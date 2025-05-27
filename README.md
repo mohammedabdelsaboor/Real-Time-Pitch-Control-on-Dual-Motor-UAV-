@@ -4,7 +4,7 @@ This project demonstrates a simplified drone-inspired **bi-copter balancing syst
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Real-time pitch angle reading from GY-87 IMU (MPU6050 DMP).
 - PID control loop for dynamic balance using differential thrust.
@@ -17,7 +17,8 @@ This project demonstrates a simplified drone-inspired **bi-copter balancing syst
 
 ---
 
-## 📷 System Overview
+## System Overview
+![System](https://github.com/user-attachments/assets/c0cd2128-d9ec-4a55-9e35-c4f050fa2448)
 
 - **IMU Sensor**: GY-87 (MPU6050)
 - **Controller**: Arduino UNO
