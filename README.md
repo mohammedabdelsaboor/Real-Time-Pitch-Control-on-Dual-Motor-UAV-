@@ -6,7 +6,7 @@ It uses an Arduino UNO, a GY-87 IMU (MPU6050), and two brushless motors with ESC
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time pitch angle measurement using MPU6050's DMP (Digital Motion Processor)
 - PID controller to maintain pitch balance by adjusting motor thrust
@@ -18,7 +18,7 @@ It uses an Arduino UNO, a GY-87 IMU (MPU6050), and two brushless motors with ESC
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
@@ -39,7 +39,7 @@ It uses an Arduino UNO, a GY-87 IMU (MPU6050), and two brushless motors with ESC
 
 ---
 
-## 🖥️ Serial Commands
+##  Serial Commands
 
 | Command | Function                                  |
 |---------|-------------------------------------------|
@@ -73,7 +73,7 @@ It uses an Arduino UNO, a GY-87 IMU (MPU6050), and two brushless motors with ESC
 
 ---
 
-## 👨‍💻 Author
+##Author
 
 **Mohamed Abdelsabour Radwan**  
 Mechatronics Engineering Student @ E-JUST  
@@ -82,6 +82,6 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-a-1b519321a/)
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and intended for educational and experimental use.
